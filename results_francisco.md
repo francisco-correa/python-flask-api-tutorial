@@ -43,7 +43,7 @@ if __name__ == '__main__':
 # Post-todo
 ```
 Method: POST
-Rute: {{url}}/todos
+Route: {{url}}/todos
 ```
 ### Body: 
     {"done": false,
@@ -55,7 +55,7 @@ Rute: {{url}}/todos
 ## Task "Crear APIs con Flask" ha sido borrada"
 ```
 Method: DELETE
-Rute: {{url}}/todos/1
+Route: {{url}}/todos/1
 ```
 
 ![delete-todo](https://user-images.githubusercontent.com/75753132/110245464-fed66f80-7f41-11eb-9bc5-ca5db8b25053.png)
